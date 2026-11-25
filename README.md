@@ -1,4 +1,4 @@
-# Maigret
+.# Maigret
 
 <div align="center">
   <div>
@@ -12,7 +12,7 @@
   </div>
   <div>
     <a href="https://github.com/soxoj/maigret">
-        <img alt="View count for Maigret project" src="https://komarev.com/ghpvc/?username=maigret&color=brightgreen&label=views&style=flat-square" />
+          <img alt="View count for Maigret project" src="https://komarev.com/ghpvc/?username=alexnguerra&color=brightgreen&label=views&style=flat-square" />
     </a>
     <a href="https://github.com/soxoj/maigret">
         <img alt="Minimum Python version required: 3.10+" src="https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square" />
